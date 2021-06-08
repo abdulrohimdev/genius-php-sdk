@@ -12,5 +12,10 @@
             "homepage": "http://cybersoft.com",
             "role": "Developer"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Genius\\PhpSDK\\": "src"
+        }
+    }
 }
