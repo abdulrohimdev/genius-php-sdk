@@ -1,0 +1,16 @@
+{
+    "name": "genius/php-client-sdk",
+    "type": "library",
+    "description": "php client push sdk",
+    "keywords": ["php","push","sdk","realtime"],
+    "homepage": "http://cybersoft.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdul Rohim",
+            "email": "abdulrohim34@gmail.com",
+            "homepage": "http://cybersoft.com",
+            "role": "Developer"
+        }
+    ]
+}
